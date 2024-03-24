@@ -1,0 +1,38 @@
+/* .header{
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+flex-grow: 1;
+    background-color: lightblue;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.header1{
+
+    position:absolute;
+    left: 0px;
+    margin: 30px;
+font-size: large;
+}
+.header2>s.input{
+    width: 33%;
+    padding: 888882px;
+}
+.header3{
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: 1s;
+
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+}
+.header31{
+    cursor: pointer;
+    display: flex;
+    padding: 10px;
+    font-size: small;
+} */
